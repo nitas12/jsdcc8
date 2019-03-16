@@ -15,7 +15,7 @@ Danial Raza J - danialfc40@gmail.com - https://github.com/DanialRj/Exercice1 <br
 Erni Nur Pratiwi - erninurpratiwi@gmail.com - https://github.com/erninurpratiwi/Exercise-1 <br/>
 Febby Renardi - febby.renardi@gmail.com - https://github.com/febbyr/jsdcc8exercise1/blob/master/belajarku.html <br/>
 Ibrahim Ahmad Jabar Khaidiru Sobari - ibrahim.ahmad58@gmail.com - https://github.com/baimtheelite/Exercise1 <br/>
-Manzola Caniago - manzolacaniago13@gmail.com - https://github.com/manzolacaniago13/Exercise-II <br/>
+Manzola Caniago - manzolacaniago13@gmail.com - https://github.com/manzolacaniago13/exercise-1 <br/>
 Muhammad Ibrahim - islahboim@gmail.com - https://github.com/kangbaim/Exercise1 <br/>
 Muhammad Nobel Shidqi - mnobelsh@gmail.com - https://github.com/mnobelsh/Exercise-1 <br/>
 Nita Septiani - nitas.septiani@gmail.com - https://github.com/nitas12/Exerice-1 <br/>
@@ -39,3 +39,4 @@ Rizal Purnomo - rizalpurnomo@gmail.com - https://github.com/RizalPurnomo/Exercis
 Zein Hammad Marhabah - zeinmrhb@gmail.com - https://github.com/Zaynhmad/Exercise1 <br/>
 Ardyan Priya Pratama - ardyanpratama22@gmail.com - https://github.com/ardyanpp/Exercise2 <br/>
 Adil ramadhan - adrantine@gmail.com -https://github.com/adramadhan/Exercise2 <br/>
+Manzola Caniago - manzolacaniago13@gmail.com - https://github.com/manzolacaniago13/Exercise-II <br/>
