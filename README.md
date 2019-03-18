@@ -45,5 +45,5 @@ Adil ramadhan - adrantine@gmail.com -https://github.com/adramadhan/Exercise2 <br
 Above 16/3 23.59
 
 Safira Amalia Muharani - ini.safira@gmail.com - https://github.com/safiramalia/Exercise2 17/3 00.20<br/> 
-Febby Renardi - febby.renardi@gmail.com - https://github.com/febbyr/Exercise2 17/3 <br/> 
-Manzola Caniago - manzolacaniago13@gmail.com - https://github.com/manzolacaniago13/Exercise-II 18/3 <br/> 
+Febby Renardi - febby.renardi@gmail.com - https://github.com/febbyr/Exercise2 17/3 00.23 <br/> 
+Manzola Caniago - manzolacaniago13@gmail.com - https://github.com/manzolacaniago13/Exercise-II 17/3 03.17 <br/> 
