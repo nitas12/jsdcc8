@@ -39,3 +39,4 @@ Rizal Purnomo - rizalpurnomo@gmail.com - https://github.com/RizalPurnomo/Exercis
 Zein Hammad Marhabah - zeinmrhb@gmail.com - https://github.com/Zaynhmad/Exercise1 <br/>
 Ardyan Priya Pratama - ardyanpratama22@gmail.com - https://github.com/ardyanpp/Exercise2 <br/>
 Adil ramadhan - adrantine@gmail.com -https://github.com/adramadhan/Exercise2 <br/>
+Safira Amalia Muharani - ini.safira@gmail.com - https://github.com/safiramalia/Exercise2
