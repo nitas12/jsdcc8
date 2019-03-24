@@ -47,3 +47,6 @@ Febby Renardi - febby.renardi@gmail.com - https://github.com/febbyr/Exercise2 17
 Manzola Caniago - manzolacaniago13@gmail.com - https://github.com/manzolacaniago13/Exercise-II 17/3 03.17 <br/> 
 Putra irawan - putrairawan993@gmail.com - https://github.com/putrairawan992/Excercise-2 18/3 07.50 <br/>
 Muhammad Nobel Shidqi - mnobelsh@gmail.com - https://github.com/mnobelsh/Exercise2 19/3 10.47 <br/>
+
+Exercise 3
+Ibrahim Ahmad Jabar Khaidiru Sobari - ibrahim.ahmad58@gmail.com - https://github.com/baimtheelite/Exercise3 <br/>
