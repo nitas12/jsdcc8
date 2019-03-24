@@ -54,4 +54,5 @@ Andikha Dian Nugraha - andikha.dian1@gmail.com - https://github.com/andikhadian/
 Manzola Caniago - manzolacaniago13@gmail.com - https://github.com/manzolacaniago13/Exercise-3 <br/>
 Nita Septiani - nitas.septiani@gmail.com - https://github.com/nitas12/Exercise-3/ <br/>
 Putra irawan - putrairawan993@gmail.com - https://github.com/putrairawan992/Exercise-3 <br/>
+Febby Renardi - febby.renardi@gmail.com - https://github.com/febbyr/Exercise3 <br/>
 
