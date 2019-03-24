@@ -48,5 +48,8 @@ Manzola Caniago - manzolacaniago13@gmail.com - https://github.com/manzolacaniago
 Putra irawan - putrairawan993@gmail.com - https://github.com/putrairawan992/Excercise-2 18/3 07.50 <br/>
 Muhammad Nobel Shidqi - mnobelsh@gmail.com - https://github.com/mnobelsh/Exercise2 19/3 10.47 <br/>
 
-Exercise 3 <br/>
+
+Exercise 3 : <br/>
 Manzola Caniago - manzolacaniago13@gmail.com - https://github.com/manzolacaniago13/Exercise-3 <br/>
+Nita Septiani - nitas.septiani@gmail.com - https://github.com/nitas12/Exercise-3/ <br/>
+Putra irawan - putrairawan993@gmail.com - https://github.com/putrairawan992/Exercise-3 <br/>
