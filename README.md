@@ -55,3 +55,6 @@ Manzola Caniago - manzolacaniago13@gmail.com - https://github.com/manzolacaniago
 Nita Septiani - nitas.septiani@gmail.com - https://github.com/nitas12/Exercise-3/ <br/>
 Putra irawan - putrairawan993@gmail.com - https://github.com/putrairawan992/Exercise-3 <br/>
 
+Final Project : 
+Andikha Dian Nugaha - andikha.dian1@gmail.com -https://github.com/andikhadian/Final-Project
+
