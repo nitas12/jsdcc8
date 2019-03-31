@@ -59,5 +59,7 @@ Febby Renardi - febby.renardi@gmail.com - https://github.com/febbyr/Exercise3 <b
 Ardyan Priya Pratama - ardyanpratama22@gmail.com - https://github.com/ardyanpp/Exercise3 <br/>
 Ibrahim Ahmad Jabar Khaidiru Sobari - ibrahim.ahmad58@gmail.com - https://github.com/baimtheelite/Exercise3 <br/>
 
+
 Final Project : <br/>
 Manzola Caniago - manzolacaniago13@gmail.com - https://github.com/manzolacaniago13/Final-Projek <br/>
+Ibrahim Ahmad Jabar Khaidiru Sobari - ibrahim.ahmad58@gmail.com - https://github.com/baimtheelite/Final-Project <br/>
