@@ -58,3 +58,6 @@ Adil Ramadhan - adrantine@gmail.com - https://github.com/adramadhan/Exercise3 <b
 Febby Renardi - febby.renardi@gmail.com - https://github.com/febbyr/Exercise3 <br/>
 Ardyan Priya Pratama - ardyanpratama22@gmail.com - https://github.com/ardyanpp/Exercise3 <br/>
 Ibrahim Ahmad Jabar Khaidiru Sobari - ibrahim.ahmad58@gmail.com - https://github.com/baimtheelite/Exercise3 <br/>
+
+Final Project : <br/>
+Manzola Caniago - manzolacaniago13@gmail.com - https://github.com/manzolacaniago13/Final-Projek <br/>
