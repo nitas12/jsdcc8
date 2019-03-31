@@ -55,4 +55,4 @@ Manzola Caniago - manzolacaniago13@gmail.com - https://github.com/manzolacaniago
 Nita Septiani - nitas.septiani@gmail.com - https://github.com/nitas12/Exercise-3/ <br/>
 Putra irawan - putrairawan993@gmail.com - https://github.com/putrairawan992/Exercise-3 <br/>
 Ardyan Priya Pratama - ardyanpratama22@gmail.com - https://github.com/ardyanpp/Exercise3 <br/>
-
+Ibrahim Ahmad Jabar Khaidiru Sobari - ibrahim.ahmad58@gmail.com - https://github.com/baimtheelite/Exercise3 <br/>
