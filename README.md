@@ -63,3 +63,4 @@ Ibrahim Ahmad Jabar Khaidiru Sobari - ibrahim.ahmad58@gmail.com - https://github
 Final Project : <br/>
 Manzola Caniago - manzolacaniago13@gmail.com - https://github.com/manzolacaniago13/Final-Projek <br/>
 Ibrahim Ahmad Jabar Khaidiru Sobari - ibrahim.ahmad58@gmail.com - https://github.com/baimtheelite/Final-Project <br/>
+Andikha Dian Nugaha - andikha.dian1@gmail.com -https://github.com/andikhadian/Final-Project <br/>
