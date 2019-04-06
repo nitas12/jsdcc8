@@ -65,4 +65,7 @@ Manzola Caniago - manzolacaniago13@gmail.com - https://github.com/manzolacaniago
 Ibrahim Ahmad Jabar Khaidiru Sobari - ibrahim.ahmad58@gmail.com - https://github.com/baimtheelite/Final-Project <br/>
 Andikha Dian Nugaha - andikha.dian1@gmail.com -https://github.com/andikhadian/Final-Project <br/>
 Putra Irawan - putrairawan992@yahoo.com -https://github.com/putrairawan992/Final-Project
+
+Febby Renardi - febby.renardi@gmail.com - https://github.com/febbyr/Final-Project <br/>
+
 Nita Septiani - nitas.septiani@gmail.com - https://github.com/nitas12/Final-Project- <br/>
